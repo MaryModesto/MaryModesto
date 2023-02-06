@@ -33,7 +33,7 @@ Here are some ideas to get you started:
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔍 Currently Learning: <strong>Data Structures and Algorithms, Object Oriented Programming, ReactJS, SQL, and C.</strong>
  </p>
  <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Basketball, Photography, Music, but mostly Anime.</strong>
+   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Coding and Making 🔥🔥🔥 jokes 😎</strong>
  </p>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
