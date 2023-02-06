@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h4 align="center">printf("Hello, World");</h4>
 
 
-<h2 align="left">📌 About Me</h2>
+<h2 align="left">📌#include About Me</h2>
 
 <p align="left">
  I am a freshman Computer Science Student in the University of San Carlos. I prefer the pronouns he/his because ill never be Him -----> https://www.youtube.com/watch?v=BYvhhMjW32k
