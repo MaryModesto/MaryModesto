@@ -36,7 +36,7 @@ Here are some ideas to get you started:
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ✨ Hobbies: <strong>Coding and Making 🔥🔥🔥 jokes 😎</strong>
  </p>
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> samuelbonghanoy35@gmail.com or 20103261@usc.edu.ph </strong>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  📫 Contact me through these emails:  <strong> 20800073@usc.edu.ph </strong>
  </p>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ⚡ Fun fact: Professional ROad-CrOsser
