@@ -19,6 +19,3 @@ Here are some ideas to get you started:
 <p align="center"> <img align="center" src="gif.gif" alt="MySQL" width="600" height="50"/></p>
 <h4 align="center">1st year Computer Science student and aspiring Data Scientist and Full-stack Web Developer</h4>
 <h4 align="center">printf("Hello, World");</h4>
-
-
-<h2 align="left">📌#include "About.Me"</h2>
